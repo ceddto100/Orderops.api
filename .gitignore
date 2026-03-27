@@ -1,0 +1,33 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## NuGet
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+## VS / Rider
+.vs/
+.idea/
+*.swp
+*~
+
+## User secrets
+secrets.json
+
+## OS
+.DS_Store
+Thumbs.db
